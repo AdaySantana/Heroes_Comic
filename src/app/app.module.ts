@@ -20,6 +20,7 @@ import { AboutComponent } from './components/about/about.component';
 import { HeroesComponent } from './components/heroes/heroes.component';
 import { HeroeComponent } from './components/heroe/heroe.component';
 import { BuscarHeroeComponent } from './components/buscar-heroe/buscar-heroe.component';
+import { HeroeTarjetaComponent } from './components/heroe-tarjeta/heroe-tarjeta.component';
 
 
 
@@ -32,7 +33,8 @@ import { BuscarHeroeComponent } from './components/buscar-heroe/buscar-heroe.com
     AboutComponent,
     HeroesComponent,
     HeroeComponent,
-    BuscarHeroeComponent
+    BuscarHeroeComponent,
+    HeroeTarjetaComponent
     
   ],
   imports: [
